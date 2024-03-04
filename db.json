@@ -1,4 +1,4 @@
 {
   "someData":{"id":"objectID", "class":"CS391"},
-  "moreData":"id":"secondID", "class":"idk"},
+  "moreData":{"id":"secondID", "class":"idk"},
 }
