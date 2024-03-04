@@ -2,31 +2,31 @@
   {
     "id": 1,
     "title": "Create to do list",
-    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque egestas dictum libero, vel tristique odio pulvinar vitae.",
+    "body": "Create a to do list for this week, to make sure things are on Track.",
     "lane": 1
   },
   {
     "id": 2,
-    "title": "Release new website",
-    "body": "hasellus eleifend lacus vitae est ultrices placerat. Nunc at risus id risus venenatis laoreet sit amet cursus neque.",
+    "title": "Explore new coffee shops nearby",
+    "body": "Explore South Boston Coffee Shops.",
     "lane": 2
   },
   {
     "id": 3,
-    "title": "Change button color",
-    "body": "Suspendisse ac lorem a neque tempus luctus non aliquam sapien. Cras ut lacus bibendum, placerat nibh eu, tempus neque.",
+    "title": "One week Sprint",
+    "body": "Four more days, and you'll have a week off.",
     "lane": 3
   },
   {
     "id": 4,
-    "title": "Deploy server on acceptance environment",
-    "body": "Pellentesque pharetra fermentum sapien, aliquet ultrices ligula mattis porttitor.",
+    "title": "Coffee chat on Friday",
+    "body": "Remember to get a bag of coffee beans for ian.",
     "lane": 3
   },
   {
     "id": 5,
-    "title": "Change layout for the content page",
-    "body": "Cras tellus ligula, mattis at facilisis eu, ultricies vel elit. Ut aliquam volutpat lacus, a rutrum sem vulputate non.",
+    "title": "Check on graduate school progress",
+    "body": "Check on graduate school progress, and look for next year's apartment.",
     "lane": 3
   }
 ]
